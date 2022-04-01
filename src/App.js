@@ -6,7 +6,7 @@ import PlaylistControls from './PlaylistControls.js';
 import VideoPlayer from './VideoPlayer';
 import useLocalStorage from './useLocalStorage.js';
 
-const apiKey = "AIzaSyB3llWo5kDUGaXpa8ESLyc-CSD6zTgVlpY"
+const apiKey = "API KEY HERE"
 
 function App() {
   const [playlists, setPlaylists] = useLocalStorage("playlists",[])
