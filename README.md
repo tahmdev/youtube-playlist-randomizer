@@ -1,3 +1,9 @@
+# Functionality 
+Shuffle long youtube playlists properly. Youtube's built in shuffle function only shuffles the currently loaded 200 songs.
+
+Also allows for mixing multiple playlists.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
